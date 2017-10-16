@@ -1,0 +1,83 @@
+{
+    "bch": {
+        "volume": "12879.7646",
+        "last": "350700",
+        "yesterday_last": "353500",
+        "yesterday_low": "344700",
+        "high": "360300",
+        "currency": "bch",
+        "low": "348000",
+        "yesterday_first": "360500",
+        "yesterday_volume": "14619.4492",
+        "yesterday_high": "368000",
+        "first": "353100"
+    },
+    "qtum": {
+        "volume": "668745.9270",
+        "last": "11990",
+        "yesterday_last": "12040",
+        "yesterday_low": "11530",
+        "high": "12360",
+        "currency": "qtum",
+        "low": "11790",
+        "yesterday_first": "12590",
+        "yesterday_volume": "846600.9251",
+        "yesterday_high": "12630",
+        "first": "11870"
+    },
+    "errorCode": "0",
+    "etc": {
+        "volume": "487871.2129",
+        "last": "13430",
+        "yesterday_last": "13450",
+        "yesterday_low": "12910",
+        "high": "13690",
+        "currency": "etc",
+        "low": "13230",
+        "yesterday_first": "13860",
+        "yesterday_volume": "1080804.7657",
+        "yesterday_high": "14250",
+        "first": "13380"
+    },
+    "result": "success",
+    "btc": {
+        "volume": "5619.9797",
+        "last": "6362500",
+        "yesterday_last": "6332500",
+        "yesterday_low": "6167000",
+        "high": "6499500",
+        "currency": "btc",
+        "low": "6200000",
+        "yesterday_first": "6530500",
+        "yesterday_volume": "7508.7500",
+        "yesterday_high": "6678000",
+        "first": "6296500"
+    },
+    "timestamp": "1508164608",
+    "eth": {
+        "volume": "169371.6363",
+        "last": "380500",
+        "yesterday_last": "375500",
+        "yesterday_low": "356500",
+        "high": "394900",
+        "currency": "eth",
+        "low": "368500",
+        "yesterday_first": "388400",
+        "yesterday_volume": "171344.5925",
+        "yesterday_high": "393000",
+        "first": "371500"
+    },
+    "xrp": {
+        "volume": "329359222.3414",
+        "last": "320",
+        "yesterday_last": "295",
+        "yesterday_low": "278",
+        "high": "327",
+        "currency": "xrp",
+        "low": "293",
+        "yesterday_first": "295",
+        "yesterday_volume": "89317935.1656",
+        "yesterday_high": "298",
+        "first": "295"
+    }
+}
